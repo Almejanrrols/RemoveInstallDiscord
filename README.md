@@ -1,4 +1,4 @@
-# RemoveInstallDiscord
+# Remove Install Discord
 A theme for https://github.com/SpikeHD/Dorion that removes the "Download discord" button with a native theme in CSS that only aims to that button.
 
 # How to install
